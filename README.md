@@ -1,6 +1,5 @@
 ### Hello there 👋
 
-- 
 - 🔭 I’m currently working on a website with GatsbyJs
 - 🌱 I’m currently learning React
 
