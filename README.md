@@ -1,5 +1,5 @@
 ### Hello there 👋
-
+- 👯 I'm looking for a job in application development or in DevOps practices
 - 🔭 I’m currently working on a website with GatsbyJs
 - 🌱 I’m currently learning React
 
