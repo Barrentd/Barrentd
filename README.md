@@ -1,7 +1,6 @@
 ### Hello there 👋
-- 👯 I'm looking for a job in application development or in DevOps practices
 - 🔭 I’m currently working on a website with GatsbyJs
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Ansible and Terraform
 
 <!--
 **Barrentd/Barrentd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
