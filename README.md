@@ -1,4 +1,4 @@
-<H1>Hello there(https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/Hi.gif)</H1>
+<H1>Hello there![hello](https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/Hi.gif)</H1>
 - 🔭 I’m currently working on a website with GatsbyJs
 - 🌱 I’m currently learning Ansible and Terraform
 
