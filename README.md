@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ansible and Terraform
 
 <details>
-  <summary><b><H3>:computer: &nbsp;Things I play with:</H3></b></summary>
+  <summary><b><H4>:computer: &nbsp;Things I play with:</H4></b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
