@@ -2,8 +2,6 @@
 - 🔭 I’m currently working on a website with GatsbyJs
 - 🌱 I’m currently learning Ansible and Terraform
 
-![Profile Views](https://komarev.com/ghpvc/?username=Barrentd)
-
 <details>
   <summary><b>:computer: &nbsp;Things I play with:</b></summary>
   <br/>
