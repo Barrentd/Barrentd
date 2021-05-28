@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a website with GatsbyJs
 - 🌱 I’m currently learning Ansible and Terraform
 
-<details>
+<details open>
   <summary><b>&nbsp;Things I play with&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/computer.gif" width=20px></b></summary>
   <br/>
 
@@ -35,7 +35,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary><b>&nbsp;GitHub Statistics&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/gear.gif" width=20px ></b></summary>
   <br/>
     <p float="left">
