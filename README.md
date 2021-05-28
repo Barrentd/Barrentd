@@ -1,4 +1,4 @@
-<H1>Hello there![hello](https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/Hi.gif)</H1>
+<H1>Hello there<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/Hi.gif" width=30px ></H1>
 - 🔭 I’m currently working on a website with GatsbyJs
 - 🌱 I’m currently learning Ansible and Terraform
 
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b><img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/gear.gif" width=30px >&nbsp;GitHub Statistics</b></summary>
   <br/>
     <p float="left">
       <p>
