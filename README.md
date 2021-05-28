@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ansible and Terraform
 
 <details>
-  <summary><b>&nbsp;Things I play with&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/pc.gif" width=30px></b></summary>
+  <summary><b>&nbsp;Things I play with&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/pc.gif"></b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
