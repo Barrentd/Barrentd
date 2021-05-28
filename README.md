@@ -1,9 +1,9 @@
-<H1>Hello there<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/Hi.gif" width=30px ></H1>
+<H1>Hello there<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/Hi.gif" width=30px></H1>
 - 🔭 I’m currently working on a website with GatsbyJs
 - 🌱 I’m currently learning Ansible and Terraform
 
 <details>
-  <summary><b>:computer: &nbsp;Things I play with:</b></summary>
+  <summary><b>&nbsp;Things I play with&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/pc.gif" width=30px></b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/gear.gif" width=30px >&nbsp;GitHub Statistics</b></summary>
+  <summary><b>&nbsp;GitHub Statistics&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/gear.gif" width=30px ></b></summary>
   <br/>
     <p float="left">
       <p>
