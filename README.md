@@ -19,6 +19,7 @@
  
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![Ansible](https://img.shields.io/badge/ANSIBLE-%231A1918.svg?&style=flat&logo=ansible&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&style=flat&logo=Kubernetes&logoColor=white)&nbsp;
 
  
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
