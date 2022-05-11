@@ -1,7 +1,7 @@
 <H1>Hello there&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/Hi.gif" width=30px></H1>
 
 - 🔭 I’m currently working on a website with Django and Gatsby
-- 🌱 Inproving my knowlegde around Ansible and Terraform
+- 🌱 Inproving my knowlegde around Ansible, Terraform and Sensu
 
 <details open>
   <summary><b>&nbsp;Techs I work with&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/computer.gif" width=20px></b></summary>
