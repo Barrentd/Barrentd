@@ -1,10 +1,10 @@
-<H1>Hello there&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/Hi.gif" width=30px></H1>
+<H1>Hello there&nbsp;</H1>
 
 - 🔭 I’m currently working on a website with Django and Gatsby
 - 🌱 Inproving my knowlegde around Ansible, Terraform and Sensu
 
 <details open>
-  <summary><b>&nbsp;Techs I work with&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/computer.gif" width=20px></b></summary>
+  <summary><b>&nbsp;Techs I work with&nbsp;</b></summary>
   <br/>
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -33,7 +33,7 @@
 </details>
 
 <details open>
-  <summary><b>&nbsp;GitHub Statistics&nbsp;<img src="https://raw.githubusercontent.com/Barrentd/Barrentd/master/gifs/gear.gif" width=20px ></b></summary>
+  <summary><b>&nbsp;GitHub Statistics&nbsp;</b></summary>
   <br/>
     <p float="left">
       <p>
