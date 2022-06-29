@@ -1,7 +1,7 @@
 <H1>Hello there&nbsp;</H1>
 
-- 🔭 I’m currently working on a website with Django and Gatsby
-- 🌱 Inproving my knowlegde around Ansible, Terraform and Sensu
+- 🔭 I’m currently working on a website with Gatsby and a headless CMS
+- 🌱 Inproving my knowlegde around Ansible, Kubernetes, Terraform and Sensu
 
 <details open>
   <summary><b>&nbsp;Techs I work with&nbsp;</b></summary>
