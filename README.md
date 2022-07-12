@@ -1,6 +1,6 @@
 <H1>Hello there&nbsp;</H1>
 
-- 🔭 I’m currently working on a website with Gatsby and a headless CMS
+- 🔭 I’m currently working on a website with Gatsby and Strapi
 - 🌱 Inproving my knowlegde around Ansible, Kubernetes, Terraform and Sensu
 
 <details open>
