@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a website with Gatsby/Next JS and Strapi
 - 🌱 Inproving my knowlegde around Ansible, Kubernetes, Terraform and Sensu
-- 🚀 Inproving my knowlegde around Ansible, Kubernetes, Terraform and Sensu
+- 🚀 Expanding my expertise in AWS, Azure, and GCP cloud environments.
 
 <details open>
   <summary><b>&nbsp;Techs I work with&nbsp;</b></summary>
@@ -12,6 +12,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)&nbsp;
+
 
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
@@ -29,6 +30,9 @@
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
  
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+![REDHAT](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)&nbsp; 
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+  
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
