@@ -42,14 +42,3 @@
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
-</details>
-
-<details open>
-  <summary><b>&nbsp;GitHub Statistics&nbsp;</b></summary>
-  <br/>
-    <p float="left">
-      <p>
-         <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barrentd&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-      </p>
-   </p>
-</details>
